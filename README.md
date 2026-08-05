@@ -1,17 +1,14 @@
 # CONCOCTORY: A Maker's Laboratory
 
-------------------
 
 ## What the hell is this, anyway? 
 Good question! Concoctory is the central hub for all of my projects, both personal and professional. Maybe it's a bit unusual in these polished, AI-speak, LinkedIn times, but I don't think there needs to be a separation of who I am professionally and personally. I like to make all sorts of things, sometimes for myself and sometimes for others. I want this website to be a place where others can get to know me; what I like to do, what I'm working on or dreaming up, and what ideas I come up with that might be helpful to others. Consider it my digital junk drawer; springs, small tools, broken crayons, loose screws, batteries, and a work badge stored neatly away inside.....somewhere. 
 
------------------
 
 ## Who's responsible for this mess? 
 Me!! I am! 
 .....I guess that doesn't tell you much, does it? I'm a lot of things, so where do I start? I'm a nurse who is also an aspiring developer. I'm a perpetual student, both formal and informal. I'm a tinkerer, a jack of all trades (but master of none), a silly goose. Part magician, part fixer, part demo crew, always a newbie in some regard. I'm a hyperfocuser, a chronic overthinker, an overzealous wannabe inventor; basically a little meat creature who just likes to do stuff or at least think about doing stuff. 
 
-------------------
 
 ## What is even going on here? 
 Who knows?! Right now, you'll find various ideas that I have...some in progress, maybe 1-2 completed, some just gathering cobwebs in the dusty corners of my mind, for right now anyway. You might find updates on projects.....or not. I might share pictures, I might share notes, I might share blog posts....whatever I feel like doing, I guess. Things I'm currently fixating on: 
@@ -34,7 +31,6 @@ Who knows?! Right now, you'll find various ideas that I have...some in progress,
 
 - Roamfree - a shared road-trip notebook, for when 'we'll figure it out when we get there' needs a little backup.
 
------------------
 
 ## What is your plan here for cleaning up this mess?
 Plan? I have ideas. That's different, and worse.
