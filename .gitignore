@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+.env
+venv/
+dist/
+build/
+.netlify/
+.vercel/
