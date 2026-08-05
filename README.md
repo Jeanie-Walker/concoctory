@@ -37,7 +37,7 @@ Who knows?! Right now, you'll find various ideas that I have...some in progress,
 -----------------
 
 ## What is your plan here for cleaning up this mess?
-Plan? I have ideas. That's different, and worse."
+Plan? I have ideas. That's different, and worse.
 
 
 
